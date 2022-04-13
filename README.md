@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadariefhidayat&theme=ayu-mirage)](https://github.com/ryo-ma/github-profile-trophy)
 
