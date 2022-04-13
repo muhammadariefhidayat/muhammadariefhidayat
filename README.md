@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=dark"/>
+<table>
+    <tr>
+         <td>
+             <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=dark"/>
+        </td>
+        
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&theme=dark"/>
+        </td>
+    </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&theme=dark"/>
+
+
 
 <table width="320px">
     <tbody>
