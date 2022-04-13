@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-<table width="320px">
+<table width="420px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
