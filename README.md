@@ -20,7 +20,6 @@ Here are some ideas to get you started:
          <td>
              <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=dark"/>
         </td>
-        
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&theme=dark"/>
         </td>
