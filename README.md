@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </table>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Profile views](https://gpvc.arturio.dev/muhammadariefhidayat)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadariefhidayat&theme=chalk)](https://github.com/muhammadariefhidayat/github-profile-trophy) -->
 
