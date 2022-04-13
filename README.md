@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <table class="tab">
          <tr style="border: none;">
                   <td style="border: none;">
-                           <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=dark"/>
+                           <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=merko"/>
                   </td>
                   <td style="border: none;">
-                           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=dark"/>
+                           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=merko"/>
                   </td>
          </tr>
 </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
