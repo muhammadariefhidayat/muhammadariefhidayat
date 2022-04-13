@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:1px solid #EEE;}
-.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-</style>
+
 
 <table class="tab">
          <tr style="border: none;">
@@ -76,3 +72,10 @@ Here are some ideas to get you started:
 </table>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}
+</style>
