@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-table {border: none;}
 
-<table>
-         <tr>
-                  <td>
+<table style="border-collapse: collapse; border: none;">
+         <tr style="border: none;">
+                  <td style="border: none;">
                            <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=dark"/>
                   </td>
-                  <td>
+                  <td style="border: none;">
                            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&theme=dark"/>
                   </td>
          </tr>
@@ -31,7 +30,7 @@ table {border: none;}
 
 
 
-<table width="420px">
+<table width="420px" style="border-collapse: collapse; border: none;">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
