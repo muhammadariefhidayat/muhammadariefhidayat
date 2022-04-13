@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadariefhidayat&theme=chalk)](https://github.com/muhammadariefhidayat/github-profile-trophy) -->
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mobile developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
