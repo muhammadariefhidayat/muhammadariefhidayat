@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
 
-<table style="border-collapse: collapse; border: none;">
+<table class="tab">
          <tr style="border: none;">
                   <td style="border: none;">
                            <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=dark"/>
