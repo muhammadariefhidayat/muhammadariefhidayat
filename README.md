@@ -31,7 +31,7 @@ Here are some ideas to get you started:
                            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage"/>
                   </td>
          </tr>
-         </table style="border: none;">
+</table style="border: none;">
 </div> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
