@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <div dir='rtl'>
-<table>
+<table style="border: none;">
          <tr style="border: none;">
                   <td style="border: none;">
                            <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=ayu-mirage"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
                            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage"/>
                   </td>
          </tr>
-         </table>
+         </table style="border: none;">
 </div> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
