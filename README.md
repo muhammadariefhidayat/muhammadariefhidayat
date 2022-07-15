@@ -1,8 +1,10 @@
+<p align="center" width="100%">
+<img src="https://camo.githubusercontent.com/f7802710a853db1746eee70f6a0f5ebfca5b5021c4c8ff73d2d2576c6c50f642/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d57656c636f6d652b746f2b41726965662b486964617961742b50726f66696c652546302539462539312538423b416e64726f69642b616e642b4d6f62696c652b47616d652b446576656c6f706572"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer)](https://git.io/typing-svg)
 
 
-<div  id="badges">
+<div id="badges">
   <p align="center">
     <a href="www.linkedin.com/in/mariefhidayat">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,23 +27,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center" width="100%">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=ayu-mirage">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage">
+</p>
 
 
-
-<div dir='rtl'>
-<table style="border: none;">
-         <tr style="border: none;">
-                  <td style="border: none;">
-                           <img src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=ayu-mirage"/>
-                  </td>
-                  <td style="border: none;">
-                           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage"/>
-                  </td>
-         </tr>
-</table style="border: none;">
-</div> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center" width="100%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadariefhidayat&theme=chalk)](https://github.com/muhammadariefhidayat/github-profile-trophy) -->
