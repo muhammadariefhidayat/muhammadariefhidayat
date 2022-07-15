@@ -1,13 +1,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer)](https://git.io/typing-svg)
 
-<div dir='rtl' id="badges">
-  <a href="www.linkedin.com/in/mariefhidayat">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/c/ariefhidayatdev">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
+<div  id="badges">
+  <p align="center">
+    <a href="www.linkedin.com/in/mariefhidayat">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/c/ariefhidayatdev">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </p>
 </div>
 
 <!--
