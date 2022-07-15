@@ -1,5 +1,6 @@
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer+Indonesia)](https://git.io/typing-svg)</h3>
+<h3 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer+Indonesia)](https://git.io/typing-svg)</h3>
 <!--
 **muhammadariefhidayat/muhammadariefhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
