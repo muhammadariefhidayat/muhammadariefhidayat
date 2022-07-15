@@ -1,12 +1,11 @@
-<p align="center" width="100%">
-<img src="https://camo.githubusercontent.com/f7802710a853db1746eee70f6a0f5ebfca5b5021c4c8ff73d2d2576c6c50f642/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d57656c636f6d652b746f2b41726965662b486964617961742b50726f66696c652546302539462539312538423b416e64726f69642b616e642b4d6f62696c652b47616d652b446576656c6f706572"/>
+<p align="center" width="100%">    
+<img src="https://camo.githubusercontent.com/c6e16e1361019e885cd9f82a7ca2ea5fd06c906a94f32b486ef2be2969cb469e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3330266475726174696f6e3d3534303026636f6c6f723d314645374637266261636b67726f756e643d4643464646393030266c696e65733d2b2b2b2b2b57656c636f6d652b746f2b41726965662b486964617961742b50726f66696c653b4d6f62696c652b417070732b446576656c6f706572"/>
 </p>
 
 <p align="center">
 <img width="20%" src="https://user-images.githubusercontent.com/28746063/179196882-b75081b0-2e16-4a3f-8d68-bea174f63f45.png"/>
 </p>
 
-<div id="badges">
   <p align="center">
     <a href="www.linkedin.com/in/mariefhidayat">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +14,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </p>
-</div>
+
 
 <!--
 **muhammadariefhidayat/muhammadariefhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
