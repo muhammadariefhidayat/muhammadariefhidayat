@@ -2,7 +2,9 @@
 <img src="https://camo.githubusercontent.com/6270ae834ffe4879d8b20d95adb1d4c2755d881065263365b6edb9b816756ece/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d323826636f6c6f723d314645374637266261636b67726f756e643d46434646463930302663656e7465723d74727565267643656e7465723d74727565266c696e65733d57656c636f6d652545322539432541383b496e2b41726965662b486964617961742b50726f66696c653b416e64726f69642b4d6f62696c652b446576656c6f706572"/>
 </p>
 <p align="center">
-<img width="20%" src="https://user-images.githubusercontent.com/28746063/179196882-b75081b0-2e16-4a3f-8d68-bea174f63f45.png"/>
+  <a href="https://github.com/muhammadAriefHidayat">
+    <img width="20%" src="https://user-images.githubusercontent.com/28746063/179196882-b75081b0-2e16-4a3f-8d68-bea174f63f45.png"/>
+  </a>
 </p>
 
   <p align="center">
@@ -28,12 +30,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p  width="100%">
+  <a href="https://github.com/muhammadAriefHidayat">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=ayu-mirage">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage">
+  </a>
 </p>
 
 <p width="90%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D"/>
+  <a href="https://github.com/muhammadAriefHidayat">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D"/>
+  </a>
 </p>
 
 
