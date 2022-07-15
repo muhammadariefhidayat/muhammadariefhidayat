@@ -1,6 +1,8 @@
 
+<div dir='rtl'>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer)](https://git.io/typing-svg)
-dir='rtl'
+</div>
+
 <p align="center">
 <a href="https://linkedin.com/in/muhammadariefhidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadariefhidayat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ariefhidayatdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariefhidayatdev" height="30" width="40" /></a>
