@@ -1,7 +1,5 @@
 
-<div dir='rtl'>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer)](https://git.io/typing-svg)
-</div>
 
 <p align="center">
 <a href="https://linkedin.com/in/muhammadariefhidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadariefhidayat" height="30" width="40" /></a>
@@ -34,8 +32,11 @@ Here are some ideas to get you started:
                   </td>
          </tr>
 </table>
-
+</div> 
+<div dir='rtl'>
+         <table class="tab">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</table>
 </div> 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadariefhidayat&theme=chalk)](https://github.com/muhammadariefhidayat/github-profile-trophy) -->
