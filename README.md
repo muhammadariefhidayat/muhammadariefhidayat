@@ -1,11 +1,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+Arief+Hidayat+Profile👋;Android+and+Mobile+Game+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-<a href="https://linkedin.com/in/muhammadariefhidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadariefhidayat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ariefhidayatdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariefhidayatdev" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/m_ariefhdyat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammadariefhidayat" height="30" width="40" /></a> -->
-</p>
+<div dir='rtl' id="badges">
+  <a href="www.linkedin.com/in/mariefhidayat">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/c/ariefhidayatdev">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 <!--
 **muhammadariefhidayat/muhammadariefhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
