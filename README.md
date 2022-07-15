@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/muhammadAriefHidayat">
-    <img width="20%" src="https://user-images.githubusercontent.com/28746063/179196882-b75081b0-2e16-4a3f-8d68-bea174f63f45.png"/>
+    <img width="25%" src="https://user-images.githubusercontent.com/28746063/179196882-b75081b0-2e16-4a3f-8d68-bea174f63f45.png"/>
   </a>
 </p>
 
