@@ -32,8 +32,7 @@ Here are some ideas to get you started:
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage">
 </p>
 
-
-<p align="center" width="100%">
+<p width="90%">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=muhammadariefhidayat&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
