@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p  width="100%">
+<!-- <p  width="100%">
   <a href="https://github.com/muhammadAriefHidayat">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadariefhidayat&show_icons=true&theme=ayu-mirage">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadariefhidayat&layout=compact&theme=ayu-mirage">
   </a>
-</p>
+</p> -->
 
 <p width="90%">
   <a href="https://github.com/muhammadAriefHidayat">
